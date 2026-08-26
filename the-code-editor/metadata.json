@@ -1,0 +1,5 @@
+{
+  "name": "The Code Editor",
+  "description": "A professional, high-performance code editor with support for over 150 languages and local storage persistence.",
+  "requestFramePermissions": []
+}
