@@ -6,13 +6,19 @@
 I'm Densita, 12 years old. I built COSMO CLASS because I believe "Science can be Seen, Read, Heard, Played, and Built."
 
 ## 🌌 The 6 Tools
+1. **HELA SCOPE** - Interactive 3D Solar System with NASA data
+2. **EDU DINSI** - NASA Blogs with Blind Mode + Audio Reader for accessibility  
+3. **EDU DSL** - Translate NASA articles to Sinhala + AI Chatbot for Q&A
+4. **SCI-QUIZ EXPLORER** - Learn space through fun quizzes
+5. **CODE DMEX** - Test and build your own space code
+6. **ROCKET GAME** - Learn gravity by playing "Rocket Escape"
 
-1.  **HELA SCOPE** - Interactive 3D Solar System with NASA data
-2.  **EDU DINSI** - NASA Blogs with Blind Mode + Audio Reader for accessibility
-3.  **EDU DSL** - Translate NASA articles to Sinhala + AI Chatbot for Q&A
-4.  **SCI-QUIZ EXPLORER** - Learn space through fun quizzes
-5.  **CODE DMEX** - Test and build your own space code
-6.  **ROCKET GAME** - Learn gravity by playing "Rocket Escape"
+## 💻 Source Code in this Repo
+I have uploaded source code for 2 tools. Other tools are deployed live.
+
+- **ROCKET GAME**: `/rocket-game` folder - React + Vite
+- **EDU DINSI**: `/edu-dinsi` folder - React + Accessibility Features
+- **Other 4 Tools**: [Live on Google Site](https://sites.google.com/view/cosmo-class-pro/home)
 
 ## 🛠️ Tech Stack
 HTML, CSS, JavaScript, Python, NASA APIs, Vercel, Netlify
@@ -24,4 +30,4 @@ To make space education available in every language, for every ability, and for 
 [Watch Demo Video](උඹේ YouTube Link එක දාපන්)
 
 ## 🌐 Live Project
-Visit Google Site- https://sites.google.com/view/cosmo-class-pro/home
+[Visit Google Site](https://sites.google.com/view/cosmo-class-pro/home)
