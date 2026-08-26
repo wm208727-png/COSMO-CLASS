@@ -24,4 +24,4 @@ To make space education available in every language, for every ability, and for 
 [Watch Demo Video](උඹේ YouTube Link එක දාපන්)
 
 ## 🌐 Live Project
-[Visit Google Site](උඹේ Google Site Link එක දාපන්)
+Visit Google Site- https://sites.google.com/view/cosmo-class-pro/home
