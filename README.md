@@ -1,7 +1,7 @@
 # 🚀 COSMOCLASS - Planet X Hunter | NASA Space Apps 2026
-### Built Solo by A. Disas Dinsitha (12) - Anuradhapura, Sri Lanka 🇱🇰
+### Built Solo by A. Disas Dinsitha (12) - Bandaragama , Sri Lanka 🇱🇰
 
-> **All 6 of these together are COSMOCLASS.**
+> **All 13 of these together are COSMOCLASS.**
 > "I built this so science can be Seen, Read, Heard, Played, and Built - by everyone, the easy way."
 
 **Live Website:** https://cosmo-class-planet-x-hunter-nasa-space-apps-2026.ai.studio/
@@ -82,7 +82,7 @@ This app is a functional **simulation** of that methodology, inspired by how Cly
 **DEVELOPER : A. DISAS DINSITHA**
 **AGE : 12**
 **E MAIL : wm208727@gmail.com**
-**Country : Sri Lanka - Anuradhapura**
+**Country : Sri Lanka - Bandaragama**
 **Built Solo for NASA Space Apps 2026**
 
 Made with ❤️ for NASA Space Apps Challenge 2026
