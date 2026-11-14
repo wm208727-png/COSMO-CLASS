@@ -1,0 +1,6 @@
+{
+  "name": "COSMO CLASS - Planet X Hunter - NASA Space Apps 2026",
+  "description": "NASA SPHEREx Planet X Hunter Blink Comparator and Discovery System for NASA Space Apps 2026",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
